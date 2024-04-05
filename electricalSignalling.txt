@@ -1,0 +1,25 @@
+Neurons
+Send electric impulses down the axon, transmit information chemically via neurotransmitters (in synaptic terminal).
+Cell body (holds nucleus), dendrites, axon hillock, axon, synapse (junction).
+
+
+Potential around membrane
+When a neuron is not sending a signal, we speak of its resting potential = negatively charged inside (-70mV).
+
+K+ (potassium) is higher inside neuron, Na+ (sodium) is higher outside (maintained by K-Na-pump actively transporting 3 Na+ out and 2 K+ in). Membrane also holds channels for K+ and Na+ ions. While resting, most K+-channels are open, most Na+-channels closed. And because pump keeps getting Na+ out of the cell, concentration of K+ inside cell is higher, thus creates a concentration gradient to the outside. Therefore, K+ ions naturally diffuse outside along their concentration gradient. 
+
+
+Transmission of an impulse from dendrite via axon
+If ligand gated sodium channels receive a stimulus from a neurotransmitter, they open up. This increases Na+ concentration inside neuron, shifting its potential to positive (depolarization). Depolarization causes some voltage-gated sodium-channels to open up. If this cycle continues often enough to reach the threshold of -55mV, all voltage-gated ion channels open up (not only Na+) and let even more positively charged ions in = positive feedback (rising phase) = action potential.
+Action potential travels down the axon: Taken up Na+-ions inside neuron wander along its inner membrane in one direction – axon hillock to synaptic terminal. They can´t escape because inactivation loop is shutting down their channels. The trail of moving Na+ leaves behind another trail of outflowing K+-ions -> undershoot, Na-K-pump to -70mV
+
+
+
+Myelin sheath
+The longer the myelin sheaths around an axon, the quicker an action potential can be conducted. Sheath leaves no room for ion channels, only nodes of Ranvier. Impulses thus “jump” from nod to nod, channel to channel, which is faster than opening a lot of channels along the axons. This jumping is called saltatory conduction.
+
+
+
+Synaptic transmission
+Current neuron (presynaptic) has neurotransmitters sitting in vesicles. These are being released out (into synaptic cleft) when action potential reaches synapse. Neurotransmitters then bind to ligand-gated ion channels and the whole story begins a new.
+The end: After signalling stops, residual neurotransmitters in the synaptic cleft are either broken down by enzymes or reabsorbed by presynaptic cell, put back into vesicles and reused next time. 

@@ -1,0 +1,58 @@
+Osmoregulation: 
+Regulation of solute and water concentration, maintenance of constant osmotic pressure. Part of homeostasis.
+Osmoregulators: regulate osmotic pressure independent from environment
+Osmoconformers: regulate osmotic pressure according to environment (jellyfish, mussels. Some can work better with changing salt concentrations around them)
+
+
+
+Salt glands
+•	Excrete hypertonic substances with help of NaCl (costs ATP)
+•	Located in skull of some reptiles and most water birds
+
+
+
+Nitrogenous waste
+Are broken down to glucose and ammonia. 
+Excretion of 
+•	Ammonium: most aquatic animals and bony fishes. Highly poisonous, excretion (both active and passive) via kidneys and gills requires lots of water
+•	Urea: Mammals, shark, some bony fishes, most amphibians. Less toxic than ammonium thus less water required for excretion. CO2 binds to ammonium in liver (energy-demanding) creating urea.
+•	Uric acid: Birds, insects, many reptiles, land snails. Relatively non-toxic, can be excreted as a semisolid paste (little water required). Costs a lot of energy.
+
+
+
+Kidneys
+Perfrom the following functions
+•	Terminate waste products
+•	Regulate pH and osmotic pressure of blood
+•	Can change blood pressure
+•	Urine is collected in the renal pelvis and leaves through ureter
+•	Functional section of kidney: Nephron
+
+
+Glomerulus 
+•	High blood pressure in glomerulus
+•	Blood pressure is regulated with help of hormone renine
+•	Ultrafiltration in glomerulus: Water soluble substances are pressed out of blood vessels in glomerulus (high blood pressure) and mix with water inside bowman´s capsule = preliminary urine (in humans ca. 150l/meal).
+
+
+
+Urine production
+Preliminary urine is travelling through all these tubules and the loop of Henle. Ca. 99% of it is being reabsorbed into the interstitial fluid (both active and passive transport/water through osmosis), the rest ends as urine in the collecting duct, which leads to the renal pelvis.
+
+
+
+
+
+RAA-System
+RAA stands for Renin Angiotensin Aldosterone. it perfroms the following functions 
+•	Regulates urine production and blood pressure
+•	Glomerulus releases renin when blood pressure is low
+•	Renin activates angiotensinogen in liver, which transforms it to angiotensin 1
+•	Lung cells convert angiotensin 1 into 2 with help of angiotensin converting enzyme (ACE)
+•	Angiotensin 2 
+1.	Constricts blood vessels (vasoconstriction)
+2.	Triggers production of ADH (antidiuretic hormone): Makes kidneys release less water (and give back to blood), thus produce less urine
+3.	Triggers production of aldosterone (adrenalin gland): Makes kidneys reabsorp salt, which also keeps water in kidneys
+•	Blood volume increases through water -> blood pressure rises even more
+
+

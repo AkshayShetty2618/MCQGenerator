@@ -1,0 +1,35 @@
+Endocrine Sytem:
+Endocrine cells (glands) secrete hormones, which travel via blood everywhere in the body and bind to specific receptors. That takes some time, but also lasts some time.
+One of the system´s functions is to regulate homeostasis by influencing blood pressure and volume or solute concentrations in body fluids.
+
+
+Ways of communication:
+    1. Endocrine: over long distances via blood: homeostasis, growth, behaviour
+    2. Paracrine: targets cells close to secreting cell via interstitial fluid: immune system, vasoconstriction/dilation, pain
+    3. Autocrine: secreting cells target themselves via interstitial fluid: cancer, immune system, apoptosis (cell suicide)
+    4. Neuroendocrine: neurosecretory cells secrete neurohormones into the blood stream, such as ADH, oxytocin, adrenalin.
+
+
+Hormone response pathways:
+Water-soluble: Polypeptides (chains of amino acids) and amines (amino acids) leave secreting cell by exocytosis and travel through blood. Enter cells via receptors (cause of lipid-layer in cell membrane), then travel freely again and trigger transduction pathways.
+Example water-soluble: adrenaline binds to GPCR, triggers transduction pathway and makes enzymes release glucose, which can be used by muscles immediately.
+Lipid-soluble: steroids and amines diffuse out of secreting cell, then bind to transport proteins to travel via blood stream. Diffuse through cell membrane and bind to receptors (hormone-receptor-complex), again, for transport. Mostly reach nucleus and trigger changes in gene transcription.
+Example lipid-soluble: estradiol gets transported to nucleus and triggers gene transcription to produce the vitellogenin protein that makes up egg yolk (in birds and frogs).
+
+
+
+Feedback and secreting cells:
+Single endocrine pathway: After food proceeds from stomach to duodenum, it´s still quite sour. Endocrine cells in the duodenum secrete secretine, which travels via blood to the pancreas and triggers production and release of bicarbonate. This increases the pH-value until the stimulus (low pH) is eliminated. Negative feedback.
+Single neuroendocrine pathway: Oxytocin stimulates mammary glands to produce and release milk. That triggers the newborn to suckle (even more), which sets more oxytocin free. The stimulus is reinforced until the suckling stops. Positive feedback. 
+
+
+
+Important endocrine glands:
+Hypothalamus: The boss. Receives signals from the whole body and regulates neuroendocrine signalling in response.
+Pituitary (Hypophyse): Posterior stores and releases hormones from hypothalamus (ADH, oxytocin), anterior produces and releases hormones directed by hypothalamus. Part of hormone cascade.
+Pineal (Epiphyse): Produces melatonin (sleep hormone) when light is dim, thus works in a circadian rhythm. Also functions as a third eye for fish, reptiles, amphibians and birds (light-sensitive organ).
+Thyroid: Hormones stimulate metabolism and growth.
+Parathyroid: Regulates blood calcium level. If concentration drops too low, parathyroid hormone (PTH) is released, which can rise calcium concentration through producing vitamin D (which helps absorbing calcium) or making the bone cells release stored calcium. Homeostasis through negative feedback. Should be active in MBD, right?. Calcitonin also comes from this gland and has the opposite effect.
+Adrenal (ad-renal): Medulla: produces epi- and norepinephrine (fight-or-flight). Is being through synaptic signalling from hypothalamus = quick, because of threat, exercise or cold exposure. Epinephrine increases sugar production and oxygen saturation, directs more blood to heart, brain and muscles and less to skin, kidneys and digestive tract. Triggers vasodilation in blood vessels around muscles and vasoconstriction in vessels around intestines. Cortex: Produces cortisol (stress) and aldosterone. Is being signalled to via hormone cascade hypothalamus – anterior pituitary gland – blood stream - adrenal cortex, because of low blood sugar, pressure or volume or shock.
+Gonad (male: testes, female: ovaries): produce and secrete three sex steroids: androgen, estrogen, progesterone. This production is activated via a hormone cascade. Testes: androgens, mostly testosterone, for reproductive structures and secondary sex characteristics (in humans). Ovaries: estrogens, mostly estradiol, for same reasons as male counterpart and progesterone for the uterus.
+

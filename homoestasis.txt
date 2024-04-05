@@ -1,0 +1,51 @@
+Communication for homeostasis:
+•	Endocrine: Hormones travel through blood, find receptors and signal via transduction. That´s slow but also lasts long.
+•	Nervous: Impulses travel via neurons along a fixed path to a specific location. That´s very quick but lasts shortly.
+
+
+
+Mechanism of homeostasis:
+•	Sensors measure value and forward it 
+•	Control unit compares value to set point
+•	If deviation: signals via endocrine and nervous system to effector organ
+
+
+
+Feedback Systems
+•	Negative: status is measured and worked against (cold – increase temp.). Response reduces the initial stimulus. Simple endocrine pathway.
+•	Positive: value is measured and stimulus reinforced until process is completed (birth pangs build up; when newborns suckle, more milk is produced). Simple neuroendocrine pathway.
+
+
+Rhythms
+•	Daily (circadian): body temp during day higher than at night, melatonin opposite
+•	Acclimatization: adaption to external circumstances, which temporarily changes set point (moulting, fever, anti-freeze)
+•	Homeotherm: constant body tmp.
+•	Poikilotherm: changing body tmp.
+
+
+
+Heat exchange
+•	Radiation: sun
+•	Evaporation: sweating 
+•	Conduction: take heat from external physical source, like a hot stone
+•	Convection: constant income from warmth, like showering
+
+
+Thermoregulation
+Is controlled my the hypothalamus and perfoms the following functions
+•	Blood circulation (vasoconstriction, vasodilation, countercurrent exchange (extremities cool down blood (birds, dolphins)))
+•	Cooling through evaporation (horses)
+•	Behaviour (ectotherm keep body parts outside/in sunlight, endotherms seek cooler/hotter places)
+•	Adaptation of metabolic heat production
+
+
+
+Bioenergetics
+Minimum metabolic rate (basal = endotherm; standard = ectotherm; both measured under constant circumstances while adult animal is resting, sober and relaxed) = amount of energy for primary body processes (onderhoudsbehoefte)
+
+
+
+Energy conservation
+Torpor: less physical activity and metabolism, lowered body tmp and breathing.
+When food is scarce, draught or extreme temperatures.
+Can be in winter, summer or daily (small animals with a high MMR (bats)).
